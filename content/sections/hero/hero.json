@@ -1,0 +1,18 @@
+{
+  "intro": "Are your meetings unproductive? 💸",
+  "image": {
+    "src": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/33/money-with-wings_1f4b8.png",
+    "alt": "Money With Wings Emoji"
+  },
+  "title": "Anpai is a meeting productivity consultancy.",
+  "subtitle": {
+    "prefix": "We combine  ",
+    "highlight": "advanced analytics with productivity research",
+    "suffix": "."
+  },
+  "description": "Contact us to find out how your team's productivity can be optimized or check out our GitHub.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
