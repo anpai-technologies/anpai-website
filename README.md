@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
 # Gatsby Starter Portfolio Minimal Theme
@@ -48,3 +49,7 @@ Thanks a lot for using this starter! 💪
 <a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 Konstantin Münster – [konstantin.digital](https://konstantin.digital)
+=======
+# anpai-website
+Our website.
+>>>>>>> 7fa476bb8c20ad8a01f7a73dbd2d09f75a750229
