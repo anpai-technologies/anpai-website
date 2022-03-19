@@ -1,14 +1,10 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/behnam-norouzi-tGGTatQB4N8-unsplash.jpg"
+imageAlt: "Photo By Behnam Nourozi on Unsplash."
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Founded by former PwC data science consultants, Anpai is a meeting productivity consultancy that combines analytics and productivity research.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Bad meeting planning has real financial consequences - German companies alone are estimated to have lost €64 billion in 2019 due to bad meetings. However, fixing this issue is not as easy as one might assume. Team meeting schedules represent a complex system with many dimensions: a temporal component, networks of participants, event details, each individual's productivity cycle, and many more.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+To help teams unlock their full potential, we developed unique tools that combine data science and insights from social sciences research - all while engaging and upskilling the teams. <a href="mailto:info@anp.ai" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Get in touch with us to learn more.</u></a> 

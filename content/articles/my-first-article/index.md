@@ -1,7 +1,7 @@
 ---
 title: 'Building an open-source first company.'
 description: 'Sample description here.'
-date: '2021-05-28'
+date: '2022-03-20'
 banner:
     src: '../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg'
     alt: 'First Markdown Post'

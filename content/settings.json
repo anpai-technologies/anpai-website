@@ -10,7 +10,7 @@
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/lksfr",
+      "github": "https://github.com/anpai-technologies",
       "medium": "https://anpai-hq.medium.com",
       "linkedin": "https://www.linkedin.com/company/68820967",
       "mail": "mailto:info@anp.ai"
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Get in touch",
-        "url": "/resume.pdf"
+        "url": "mailto:info@anp.ai"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
