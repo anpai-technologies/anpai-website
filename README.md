@@ -4,5 +4,5 @@
 
 ---------------
 
-Our website is built using [Konstantin Münster's](https://konstantin.digital) amazing [Gatsby template] (https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal). 
+Our website is built using [Konstantin Münster's](https://konstantin.digital) amazing [Gatsby template](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal). 
 
