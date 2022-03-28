@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [
     {
-      resolve: "anpai-website",
+      resolve: "gatsby-theme-portfolio-minimal",
       options: {
         siteUrl: "https://agitated-mahavira-dbaeee.netlify.app/", // Used for sitemap generation
         manifestSettings: {
