@@ -1,9 +1,9 @@
 module.exports = {
   plugins: [
     {
-      resolve: "gatsby-theme-portfolio-minimal",
+      resolve: "anpai-website",
       options: {
-        siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/", // Used for sitemap generation
+        siteUrl: "https://agitated-mahavira-dbaeee.netlify.app/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/logo.png", // Path is relative to the root
           siteName: "Anpai Technologies", // Used in manifest.json
