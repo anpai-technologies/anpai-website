@@ -26,7 +26,3 @@ body[data-theme='darkTheme'] {
     --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
     --base-font: 'Roboto', Arial, sans-serif;
 }
-
-article {
-    background-color: white;
-}
