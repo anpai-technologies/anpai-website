@@ -10,6 +10,7 @@ body[data-theme='lightTheme'] {
     --box-shadow-color: rgba(0, 0, 0, 0.16);
     --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
     --base-font: 'Roboto', Arial, sans-serif;
+    --card-color: white;
 }
 
 body[data-theme='darkTheme'] {
