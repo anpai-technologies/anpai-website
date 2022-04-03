@@ -9,7 +9,7 @@ module.exports = {
         manifestSettings: {
           favicon: "./content/images/logo.png", // Path is relative to the root
           siteName: "Anpai Technologies", // Used in manifest.json
-          shortName: "Anpai Tech", // Used in manifest.json
+          shortName: "Anpai", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#f5efe3", // Used in manifest.json
           themeColor: "#f7d3ba", // Used in manifest.json

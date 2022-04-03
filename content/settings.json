@@ -3,16 +3,15 @@
     "language": "en",
     "siteUrl": "https://agitated-mahavira-dbaeee.netlify.app/",
     "title": "Anpai Website",
-    "titleTemplate": "%s · Portfolio Minimal",
+    "titleTemplate": "%s · Anpai Technologies",
     "description": "Anpai Technologies' website",
     "author": "Lukas Frei",
-    "avatar": "../content/images/logo.png",
+    "avatar": "../content/images/lukas.png",
     "bio": "CEO @ Anpai",
     "social": {
-      "behance": "https://behance.com",
       "github": "https://github.com/anpai-technologies",
-      "slack": "https://github.com/anpai-technologies",
-      "medium": "https://join.slack.com/t/anpaitechnologies/shared_invite/zt-15zpxmumo-Tf7dTMq6Xnw7N9YMoroKiw",
+      "slack": "https://join.slack.com/t/anpaitechnologies/shared_invite/zt-15zpxmumo-Tf7dTMq6Xnw7N9YMoroKiw",
+      "medium": "https://anpai-hq.medium.com/",
       "linkedin": "https://www.linkedin.com/company/68820967",
       "mail": "mailto:info@anp.ai"
     }
