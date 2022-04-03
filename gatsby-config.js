@@ -3,7 +3,7 @@ const { withAssetPrefix } = require("gatsby-link");
 module.exports = {
   plugins: [
     {
-      resolve: "gatsby-theme-portfolio-minimals",
+      resolve: "gatsby-theme-portfolio-minimal",
       options: {
         siteUrl: "https://agitated-mahavira-dbaeee.netlify.app/", // Used for sitemap generation
         manifestSettings: {
