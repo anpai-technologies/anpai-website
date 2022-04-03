@@ -23,7 +23,7 @@
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
-        { "label": "Open Source", "url": "/#github" }
+        { "label": "Slack", "url": "https://join.slack.com/t/anpaitechnologies/shared_invite/zt-15zpxmumo-Tf7dTMq6Xnw7N9YMoroKiw" }
       ],
       "ctaButton": {
         "openNewTab": true,
