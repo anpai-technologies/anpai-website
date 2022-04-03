@@ -12,7 +12,7 @@
   },
   "description": "Contact us to find out how your team's productivity can be optimized or check out our GitHub.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Slack", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
   }
 }
